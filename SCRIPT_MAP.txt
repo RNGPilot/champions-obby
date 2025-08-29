@@ -1,0 +1,20 @@
+  11:47:34.634  Script : ServerScriptService/Respawn  -  Edit
+  11:47:34.634  Script : ServerScriptService/PvPHandler  -  Edit
+  11:47:34.635  ModuleScript : ServerScriptService/ArenaManager  -  Edit
+  11:47:34.635  Script : ServerScriptService/GiveWeaponTest  -  Edit
+  11:47:34.635  Script : ServerScriptService/CheckpointUpdater  -  Edit
+  11:47:34.635  Script : ServerScriptService/Obby6Invis  -  Edit
+  11:47:34.635  ModuleScript : ServerScriptService/WeaponSystem/WeaponManager  -  Edit
+  11:47:34.635  ModuleScript : ServerScriptService/WeaponSystem/DamageHandler  -  Edit
+  11:47:34.635  Script : ServerScriptService/WeaponSystem/FireEventHandler  -  Edit
+  11:47:34.638  Script : ReplicatedStorage/Kill Bricks/Kill Bricks  -  Edit
+  11:47:34.638   ▶ Script : ReplicatedStorage/Drops/4Block/Part/Drops (x8)  -  Edit
+  11:47:34.639  ModuleScript : ReplicatedStorage/WeaponData/Handgun_Config  -  Edit
+  11:47:34.640  Script : ReplicatedStorage/Jetpack/Script  -  Edit
+  11:47:34.642  LocalScript : StarterPlayer/StarterPlayerScripts/CameraController  -  Edit
+  11:47:34.642  LocalScript : StarterPlayer/StarterPlayerScripts/MatchCountdownClient  -  Edit
+  11:47:34.642  LocalScript : StarterPlayer/StarterPlayerScripts/RemoveWeaponHUDClient  -  Edit
+  11:47:34.642  LocalScript : StarterPlayer/StarterPlayerScripts/CheckpointDisplayHandler  -  Edit
+  11:47:34.642  LocalScript : StarterPlayer/StarterPlayerScripts/CheckpointSoundHandler  -  Edit
+  11:47:34.643  ModuleScript : ServerStorage/PlayerManager  -  Edit
+  11:47:34.643  LocalScript : ServerStorage/Weapons/Handgun/Handgun_Client  -  Edit
