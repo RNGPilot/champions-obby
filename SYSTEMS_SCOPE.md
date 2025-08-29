@@ -1,0 +1,1 @@
+list core systems: Checkpoints, PvP Queue, Arena, Combat/Guns, Player State, Teleporters/Portals, UI/HUD, Remotes.

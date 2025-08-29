@@ -1,0 +1,1 @@
+30 checkpoints; every 3rd triggers a 1v1 arena; winner returns to progress; loser −1 checkpoint; final checkpoint loops.
