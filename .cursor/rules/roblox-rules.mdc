@@ -1,0 +1,4 @@
+---
+description: This is a Roblox Luau project. Use ModuleScripts. Server logic in ServerScriptService, shared modules and remotes in ReplicatedStorage, client controllers in StarterPlayerScripts. Do not suggest web or React libraries.
+alwaysApply: false
+---
