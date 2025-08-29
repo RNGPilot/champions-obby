@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Roblox Studio noise
+*.autosave
+*.lock
+*.binary
+
+# Build outputs
+/build/
+/dist/
+/out/
