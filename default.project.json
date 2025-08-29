@@ -2,14 +2,50 @@
   "name": "champions-obby",
   "tree": {
     "$className": "DataModel",
-    "ReplicatedStorage": { "$className": "ReplicatedStorage", "$path": "src/ReplicatedStorage" },
-    "ServerScriptService": { "$className": "ServerScriptService", "$path": "src/ServerScriptService" },
-    "ServerStorage": { "$className": "ServerStorage", "$path": "src/ServerStorage" },
-    "StarterGui": { "$className": "StarterGui", "$path": "src/StarterGui" },
-    "StarterPack": { "$className": "StarterPack", "$path": "src/StarterPack" },
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Source": {
+        "$className": "Folder",
+        "$path": "src/ReplicatedStorage"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Source": {
+        "$className": "Folder",
+        "$path": "src/ServerScriptService"
+      }
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "Source": {
+        "$className": "Folder",
+        "$path": "src/ServerStorage"
+      }
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "Source": {
+        "$className": "Folder",
+        "$path": "src/StarterGui"
+      }
+    },
+    "StarterPack": {
+      "$className": "StarterPack",
+      "Source": {
+        "$className": "Folder",
+        "$path": "src/StarterPack"
+      }
+    },
     "StarterPlayer": {
       "$className": "StarterPlayer",
-      "StarterPlayerScripts": { "$className": "StarterPlayerScripts", "$path": "src/StarterPlayerScripts" }
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "Source": {
+          "$className": "Folder",
+          "$path": "src/StarterPlayerScripts"
+        }
+      }
     }
   }
 }
